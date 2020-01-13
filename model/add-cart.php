@@ -17,7 +17,7 @@ require("../db/db.php");
 $qty = $_POST['sell-qty'];
 try {
 	
-	$stmt = $conn->prepare("INSERT INTO items_cart SET  i_desc='$desc', i_price='$price', i_qty='$qty' ");
+	$stmt = $conn->prepare("INSERT INTO items_cart SET  i_id='$id', i_desc='$desc', i_price='$price', i_qty='$qty' ");
   $stmt->execute();
   echo "<script>window.opener.location.reload(); window.close(); </script>";
 
