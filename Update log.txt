@@ -1,0 +1,4 @@
+1/11/2020
+-Items on cart does not have the same id as the items on inventory. Updated line 20 on add-cart.php
+1/11/2020
+-Fixed bug where inventory did not update after completing a sale. Updated line 11 on add-sale.php
