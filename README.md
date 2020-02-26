@@ -1,8 +1,3 @@
-
-# POS-System
-pos system in Spanish (Code in English)<br>
-This was one of my first project, and it was meant to be only for one screen size so is not fully responsive. <br>
-
 # Point Of Sales System
 
 PoS code in Spanish(Code in English)
@@ -21,7 +16,7 @@ Enter your store details<br>
 Press Finish<br>
 Enjoy
 
-## Usage
+## Features
 - Add products<br>
 - Delete products<br>
 - Update products<br>
