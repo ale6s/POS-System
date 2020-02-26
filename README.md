@@ -10,16 +10,16 @@ Not Fully resposnive.
 
 ## Installation
 
-Extract the zip file
-Copy file to localhost
-Run the project in localhost
-Configure the localhost name, username and password
-Click install button
-Create a database or upload my included Database and click next button
-Upload your store logo
-Enter your store details
-Press Finish
-Enjoy
+-Extract the zip file
+-Copy file to localhost
+-Run the project in localhost
+-Configure the localhost name, username and password
+-Click install button
+-Create a database or upload my included Database and click next button
+-Upload your store logo
+-Enter your store details
+-Press Finish
+-Enjoy
 
 ## Usage
 - Add products<br>
